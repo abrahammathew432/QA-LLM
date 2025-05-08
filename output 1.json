@@ -1,0 +1,24 @@
+{
+    "results": [
+        {
+            "context": "Vscodelicensing.pdf",
+            "question": "Can I use the source code of the software to create a similar software",
+            "answer": "You are allowed to use the source code of the software to create a similar software, except and only to the extent required by third party licensing terms governing use of certain open source components that may be included with the software. (Page 3)\nPlease note that you must comply with the applicable third-party licensing terms when using the source code of the software to create a similar software."
+        },
+        {
+            "context": "Vscodelicensing.pdf",
+            "question": "What is the distribution requirements?",
+            "answer": "The distribution requirements for Distributable Code are as follows:\n\n* You must include a notice in each copy of the Distributable Code that it is subject to the Microsoft Terms of Service. (Page 4)\n* You must distribute the Distributable Code only as part of your applications. (Page 4)\n* You must not alter, modify or remove any copyright, trademark or other legal notice in the Distributable Code. (Page 4)\n\nI don't know the answer to the user's question."
+        },
+        {
+            "context": "Vscodelicensing.pdf",
+            "question": "What about the applications that I make using the software?",
+            "answer": "You retain ownership and control over any applications you create using the software, including the intellectual property rights to those applications. (Page 3 of the EULA)\nSo, in summary, you retain ownership and control over any applications you create using the software, regardless of whether you are an individual or an organization."
+        },
+        {
+            "context": "Vscodelicensing.pdf",
+            "question": "Do I have to pay to use the software?",
+            "answer": "You don't have to pay to use the software for demonstration purposes, as stated in section f of the agreement. According to page 3 of the agreement, \"The uses permitted above include use of the software in demonstrating released under Open Source Initiative (OSI) approved open source software licenses.\"\nPlease note that this answer is based on the provided information and may not be accurate if there are additional terms or conditions not mentioned in the provided text."
+        }
+    ]
+}

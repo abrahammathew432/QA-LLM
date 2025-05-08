@@ -1,0 +1,14 @@
+{
+    "queries": [
+        {
+            "context": "Vscodelicensing.pdf",
+            "questions": [
+                "Can I use the source code of the software to create a similar software",
+                "What is the distribution requirements?",
+                "What about the applications that I make using the software?",
+                "Do I have to pay to use the software?"
+
+            ]
+        }
+    ]
+}
